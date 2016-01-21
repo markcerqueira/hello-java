@@ -2,7 +2,7 @@
 
 Sample code that illustrates the basics of Java and includes some (very) basic objects that are similar to objects
 in the [Evernote Java SDK][1]. This code was developed and used for an Evernote workshop to introduce non-engineer
-Evernote employees from around the world to the Evernote API. For some basic sample code that actually uses the Evernote API see the [javanote] repository. 
+Evernote employees from around the world to the Evernote API. For some basic sample code that actually uses the Evernote API see the [javanote][8] repository. 
 
 For more information on the Evernote SDK, visit the [Evernote Developer Center][2]. Evernote is also hiring so check
 out the [Evernote Careers][5] page; let me know if you have any questions about working at Evernote!
